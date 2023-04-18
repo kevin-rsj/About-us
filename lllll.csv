@@ -1,0 +1,64 @@
+id,username,name,email,language,location,year_of_birth,gender,level_of_education,mailing_address,goals,enrollment_mode,verification_status,city,country
+1,est1,estudiante1,correo@estudiante.com,,,1997,m,b,,Iam interested........,audit,N/A,,IN
+"2,est1,estudiante1,correo@estudiante.com,,,1993,m,hs,""strada xxxxxx, nr.x, bl.xx, sc.A"",,audit,N/A,None,GB"
+3,est1,estudiante1,correo@estudiante.com,,,1995,m,hs,xxxxx,learning,audit,N/A,None,PS
+4,est1,estudiante1,correo@estudiante.com,,,1997,m,hs,,por que es una excelente universidad para lograr nuestros sueños,audit,N/A,,EC
+5,est1,estudiante1,correo@estudiante.com,,,2001,m,el,,Porque me interesa aprender,audit,N/A,,PE
+6,est1,estudiante1,correo@estudiante.com,,,1982,m,b,,,audit,N/A,,VE
+7,est1,estudiante1,correo@estudiante.com,,,1982,m,hs,,Further knowledge ,audit,N/A,,US
+8,est1,estudiante1,correo@estudiante.com,,,1995,f,hs,,,audit,N/A,,RU
+"9,est1,estudiante1,correo@estudiante.com,,,1992,m,a,,""Porque te facilita llevar cursos, ahorras tiempo y dinero."",audit,N/A,,PE"
+"10,est1,estudiante1,correo@estudiante.com,,,1977,m,b,""xxxxx 0xxx entre xxxx,  xxxxx, xxxx, Bolivia "",Actualización ,audit,N/A,,BO"
+"11,est1,estudiante1,correo@estudiante.com,,,1977,m,b,""xxxxxxx, México"",Ciencia e informática,audit,N/A,,MX"
+12,est1,estudiante1,correo@estudiante.com,,,1991,m,,,,audit,N/A,,ES
+13,est1,estudiante1,correo@estudiante.com,,,1996,m,hs,,,audit,N/A,,CO
+14,est1,estudiante1,correo@estudiante.com,,,1997,m,hs,,,audit,N/A,,CO
+15,est1,estudiante1,correo@estudiante.com,,,1992,m,hs,,porque es una manera de ampliar mi conocimientos y eso me agrada,audit,N/A,,EC
+16,est1,estudiante1,correo@estudiante.com,,,None,,,,,audit,N/A,,ES
+"17,est1,estudiante1,correo@estudiante.com,,,1994,m,hs,,""I have dropped out school due to economic issues, in the meanwhile my parents are saving money in order for me to continue my studies. At the same time I am trying to get some money in order for completing my BA sooner. "
+
+"Studying online and something related to what I am interested (Music Production and Audio Engineering) makes me feel a relief and keep my aim in what I am interested in. "",audit,N/A,,MX"
+18,est1,estudiante1,correo@estudiante.com,,,1973,m,b,,interesado en tomar cursos a modo de perfeccionamiento y actualización de conocimientos,audit,N/A,,CL
+"19,est1,estudiante1,correo@estudiante.com,,,1999,f,hs,,""I'm interested in the edX because I love the science, and a course of biochemistry will be so interesting. "",audit,N/A,,MX"
+20,est1,estudiante1,correo@estudiante.com,,,1997,f,a,,,audit,N/A,,PY
+"21,est1,estudiante1,correo@estudiante.com,,,2000,f,hs,,""Quiero aprender y gracias a ustedes en los pocos momentos que tengo libres podré aprender"
+",audit,N/A,,CO
+22,est1,estudiante1,correo@estudiante.com,,,1997,f,hs,,Soy estudiante de ingeniería en sistemas de telecomunicación y me interesan los conociminetos que se adquieren en estos cursos y ofrecidos por los sectores tan recomocidos como el MIT ,audit,N/A,,ES
+23,est1,estudiante1,correo@estudiante.com,,,1984,m,,,,audit,N/A,,CO
+24,est1,estudiante1,correo@estudiante.com,,,None,,,,,audit,N/A,,CO
+25,est1,estudiante1,correo@estudiante.com,,,1992,,,,,audit,N/A,None,FR
+26,est1,estudiante1,correo@estudiante.com,,,1995,m,a,,aprender a aprender ,audit,N/A,,MX
+27,est1,estudiante1,correo@estudiante.com,,,2000,f,hs,,,audit,N/A,,PE
+28,est1,estudiante1,correo@estudiante.com,,,1970,m,m,xxxxx, 1 - xx"",Para adquirir nuevos conocimientos,audit,N/A,,ES"
+29,est1,estudiante1,correo@estudiante.com,,,1992,m,b,,,audit,N/A,,BO
+30,est1,estudiante1,correo@estudiante.com,,,1999,m,hs,,to improve my knowledge,audit,N/A,,CO
+31,est1,estudiante1,correo@estudiante.com,,,1997,m,hs,,,audit,N/A,,TH
+32,est1,estudiante1,correo@estudiante.com,,,None,,,,,audit,N/A,,ES
+33,est1,estudiante1,correo@estudiante.com,,,1987,f,b,,,audit,N/A,,MX
+34,est1,estudiante1,correo@estudiante.com,,,1980,o,m,,,audit,N/A,,PR
+35,est1,estudiante1,correo@estudiante.com,,,1981,m,m,,Excelent idea to have some free courses from great universities!,audit,N/A,,CO
+36,est1,estudiante1,correo@estudiante.com,,,1983,f,other,,interested in everything. Love learning,audit,N/A,None,
+37,est1,estudiante1,correo@estudiante.com,,,1996,m,hs,,por que ofrece cuarsos gratis,audit,N/A,,BO
+"38,est1,estudiante1,correo@estudiante.com,,,,m,hs,Calle xxxxxx,""by distance education, and formative varieties"",audit,N/A,,ES"
+39,est1,estudiante1,correo@estudiante.com,,,2000,f,hs,,,audit,N/A,,ES
+40,est1,estudiante1,correo@estudiante.com,,,1994,m,a,,,audit,N/A,,MX
+41,est1,estudiante1,correo@estudiante.com,,,1993,m,,,,audit,N/A,,ES
+42,est1,estudiante1,correo@estudiante.com,,,1993,f,a,,,audit,N/A,,CO
+"43,est1,estudiante1,correo@estudiante.com,,,1980,m,b,""calle xxxxxx, 19, xx"
+"28888 Pinto (Madrid)"",,verified,ID Verified,,ES"
+44,est1,estudiante1,correo@estudiante.com,,,1994,m,hs,,,audit,N/A,,GT
+45,est1,estudiante1,correo@estudiante.com,,,1989,m,b,,I have identified myself with the theme and purposes of this course. ,audit,N/A,,BR
+46,est1,estudiante1,correo@estudiante.com,,,1958,m,a,,Quiero ampliar mis conocimientos en los temas tratados,audit,N/A,,VE
+47,est1,estudiante1,correo@estudiante.com,,,1988,m,hs,,I love learning new things,audit,N/A,None,EC
+48,est1,estudiante1,correo@estudiante.com,,,1975,m,m,,Me gustan los cursos que tienen ,audit,N/A,,MX
+49,est1,estudiante1,correo@estudiante.com,,,1989,m,b,,no tengo recursos economicos para prepararme para el examen toefl y tengo solo una oportunidad,audit,N/A,,PE
+50,est1,estudiante1,correo@estudiante.com,,,2000,m,b,,estudio la carrera profecional de turismo,audit,N/A,,PE
+51,est1,estudiante1,correo@estudiante.com,,,1989,m,other,xxx,,audit,N/A,,MX
+52,est1,estudiante1,correo@estudiante.com,,,1999,,,,,audit,N/A,,FR
+53,est1,estudiante1,correo@estudiante.com,,,1999,m,hs,,Por Las Noticias De La Universidad De Mi Ciudad,audit,N/A,,EC
+54,est1,estudiante1,correo@estudiante.com,,,1991,m,a,xxx,I want give my life and all my energy to game development and i think edx is a good way to get the knowledge.,audit,N/A,,CL
+55,est1,estudiante1,correo@estudiante.com,,,1989,m,hs,,,audit,N/A,,AR
+56,est1,estudiante1,correo@estudiante.com,,,1996,m,b,,,audit,N/A,,MX
+57,est1,estudiante1,correo@estudiante.com,,,1987,m,m,,Free education!!!,audit,N/A,,MX
+58,est1,estudiante1,correo@estudiante.com,,,1991,m,hs,,,audit,N/A,None,ES
+59,est1,estudiante1,correo@estudiante.com,,,1998,f,,,,audit,N/A,,MD
